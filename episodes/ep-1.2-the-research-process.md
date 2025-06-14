@@ -72,6 +72,7 @@ advising decision-makers, or giving yourself a pat on the back for staying hydra
 
 We’ll cover each of these in detail in later modules of the course, but for now, here’s the big picture:
 
+![A flowchart of the 10 stages of the research process](images/research-process.png)
 
 
 *Aisha, a market woman and community volunteer in a rural town, begins to notice that many children in her 
